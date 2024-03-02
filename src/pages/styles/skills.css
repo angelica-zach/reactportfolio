@@ -1,0 +1,27 @@
+.skills-subtitle {
+	width: 100% !important;
+}
+h3{
+	color: var(--primary-color);
+	font-family: var(--secondary-font);
+	font-weight: 500;
+}
+p{color: var(--secondary-color);}
+.skills-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin-top: 120px;
+}
+.container-skills{
+max-width: 780px;
+margin: 0 auto; 
+padding-bottom: 30px;
+}
+.title-skills{
+    text-decoration:underline solid;
+}
+.skill-box{
+    display: flex;
+    justify-content: space-evenly;
+}
