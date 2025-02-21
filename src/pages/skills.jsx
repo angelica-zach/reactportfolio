@@ -24,6 +24,7 @@ const Skills = () => {
                 <div className="skill-box">
                   <p>CSS</p>
                   <p>HTML</p>
+                  <p>SASS</p>
                   <p>JavaScript</p>
                   <p>C</p>
                 </div>
@@ -40,7 +41,7 @@ const Skills = () => {
               <div className="container-skills">
                 <h3 className="title-skills">Tools + Platforms</h3>
                 <div className="skill-box">
-                  <p>Bootsrap</p>
+                  <p>Bootstrap</p>
                   <p>Figma</p>
                   <p>Notion</p>
                   <p>Jira</p>
